@@ -6,9 +6,9 @@ category: "Lighting"
 image: "/images/articles/lighting-design-basics.jpg"
 ---
 
-Lighting is the single most underestimated element of interior design. You can have perfect furniture, exquisite colour schemes, and flawless proportions—and still end up with a room that feels wrong. Usually, the culprit is lighting.
+Lighting is the single most underestimated element of interior design. You can have perfect furniture, exquisite colour schemes, and flawless proportions, and still end up with a room that feels wrong. Usually, the culprit is lighting.
 
-Most homes suffer from the same basic problem: not enough light, in not enough places, with not enough variety. The builder-standard approach—one ceiling pendant per room—creates flat, uninviting spaces where shadows fall wrong and nobody looks their best.
+Most homes suffer from the same basic problem: not enough light, in not enough places, with not enough variety. The builder-standard approach, one ceiling pendant per room, creates flat, uninviting spaces where shadows fall wrong and nobody looks their best.
 
 Professional lighting design transforms rooms. It creates atmosphere, defines zones, highlights what matters, and hides what doesn't. Better yet, it's achievable at most budgets once you understand the principles.
 
@@ -16,9 +16,9 @@ Professional lighting design transforms rooms. It creates atmosphere, defines zo
 
 Effective lighting combines three distinct types, each serving different purposes:
 
-**Ambient lighting** provides overall illumination. This is your background light—bright enough to move around safely, see faces clearly, and perform general tasks. Traditional ceiling fixtures serve this function, as do recessed downlights, uplighters, and wall washers.
+**Ambient lighting** provides overall illumination. This is your background light, bright enough to move around safely, see faces clearly, and perform general tasks. Traditional ceiling fixtures serve this function, as do recessed downlights, uplighters, and wall washers.
 
-**Task lighting** illuminates specific activities. Reading, cooking, applying makeup, working at a desk—each requires focused, appropriate light exactly where needed. Table lamps, desk lights, under-cabinet kitchen strips, and pendant lights over islands all provide task illumination.
+**Task lighting** illuminates specific activities. Reading, cooking, applying makeup, working at a desk, each requires focused, appropriate light exactly where needed. Table lamps, desk lights, under-cabinet kitchen strips, and pendant lights over islands all provide task illumination.
 
 **Accent lighting** creates drama and focus. Picture lights, display cabinet illumination, architectural feature highlighting, and decorative fixtures draw attention where you want it and create visual interest.
 
@@ -48,33 +48,33 @@ Install dimmers on all fixed lighting. The difference between "bright enough for
 
 ## Kitchen Lighting
 
-Kitchens present particular challenges. You need bright, shadow-free light for food preparation—knives and hot pans demand clear visibility. But you also want pleasant atmosphere for eating and socialising, which many modern kitchens accommodate.
+Kitchens present particular challenges. You need bright, shadow-free light for food preparation, knives and hot pans demand clear visibility. But you also want pleasant atmosphere for eating and socialising, which many modern kitchens accommodate.
 
 Under-cabinet lighting is essential for worktop illumination. Position it toward the front of wall units so light falls on the work surface, not your hands. LED strips or linear fixtures work well; avoid visible bulbs or hotspots.
 
-Overhead lighting should be bright but diffuse. Recessed downlights positioned above the worktop edge (not centred in the room) prevent your body from casting shadows on preparation areas. Consider task pendants over islands or peninsulas—both functional and decorative.
+Overhead lighting should be bright but diffuse. Recessed downlights positioned above the worktop edge (not centred in the room) prevent your body from casting shadows on preparation areas. Consider task pendants over islands or peninsulas, both functional and decorative.
 
 Separate circuits for work lighting and ambient lighting allow you to transition from bright cooking mode to softer entertaining mode. The harsh light that helps you chop vegetables isn't what you want while eating the results.
 
 ## Bedroom Lighting
 
-Bedroom lighting should transition from functional to restful. Avoid overhead lights that shine directly into eyes when lying in bed—a surprisingly common design failure.
+Bedroom lighting should transition from functional to restful. Avoid overhead lights that shine directly into eyes when lying in bed, a surprisingly common design failure.
 
 Bedside lighting is crucial. Choose lamps tall enough that light falls on reading material without requiring uncomfortable positions. Adjustable-arm lamps offer flexibility; table lamps should position bulbs at roughly seated eye level.
 
-Consider concealed lighting behind headboards or beneath beds for gentle ambient illumination that doesn't disturb sleeping partners. Wardrobes and dressing areas need their own lighting—interior wardrobe lights make morning routines easier.
+Consider concealed lighting behind headboards or beneath beds for gentle ambient illumination that doesn't disturb sleeping partners. Wardrobes and dressing areas need their own lighting, interior wardrobe lights make morning routines easier.
 
 If ceiling fixtures are necessary, position them toward the foot of the bed or use wall-washing techniques that avoid direct eyelines. Dimmers are essential; gradually reducing light signals bedtime to our circadian systems.
 
 ## Bathroom Lighting
 
-Bathrooms require careful consideration of both function and flattery. The harsh overhead lighting common in bathrooms does nobody any favours—it casts unflattering shadows and makes 3am visits uncomfortably bright.
+Bathrooms require careful consideration of both function and flattery. The harsh overhead lighting common in bathrooms does nobody any favours, it casts unflattering shadows and makes 3am visits uncomfortably bright.
 
 Mirror lighting matters most for grooming. Vertical strips or sconces either side of mirrors illuminate faces evenly without shadows under eyes or chin. Overhead lighting above mirrors creates exactly the unflattering shadows you want to avoid.
 
 Shower areas need waterproof fixtures (IP65 rated minimum) with enough illumination to see clearly. Recessed downlights work well; consider warm colour temperature to make morning showers less jarring.
 
-Night lights—either dedicated fixtures or dimmed main lighting—make nocturnal bathroom visits possible without full wake-up brightness. Motion sensors can trigger appropriate lighting automatically.
+Night lights, either dedicated fixtures or dimmed main lighting, make nocturnal bathroom visits possible without full wake-up brightness. Motion sensors can trigger appropriate lighting automatically.
 
 ## Dining Room Lighting
 
@@ -88,13 +88,13 @@ Add ambient lighting so the rest of the room doesn't disappear into darkness. Wa
 
 These transitional spaces are often afterthoughts but set the tone for entering your home. Avoid single overhead fixtures that create pools of light surrounded by gloom.
 
-Wall-mounted fixtures or multiple ceiling points distribute light more evenly. Consider the view from outside—your entrance should look welcoming, not harsh or gloomy through glazed doors.
+Wall-mounted fixtures or multiple ceiling points distribute light more evenly. Consider the view from outside, your entrance should look welcoming, not harsh or gloomy through glazed doors.
 
 Stairways need lighting at top and bottom, ideally with two-way switching. Stair treads should be clearly visible; consider LED strips integrated into handrails or step nosings for subtle guidance lighting.
 
 ## Summary
 
-Good lighting transforms spaces. It takes practice to see lighting as designers do—as a malleable element that shapes how rooms feel, not just a utility to switch on and off.
+Good lighting transforms spaces. It takes practice to see lighting as designers do, as a malleable element that shapes how rooms feel, not just a utility to switch on and off.
 
 Start by identifying what your current lighting lacks. Too dim? Not enough variety? Wrong colour temperature? Then address those specific issues before attempting wholesale changes.
 

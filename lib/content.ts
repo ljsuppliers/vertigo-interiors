@@ -22,7 +22,7 @@ function calculateReadTime(content: string): string {
   return `${minutes} min read`;
 }
 
-export function getContentByType(type: 'guides' | 'news' | 'areas'): ContentItem[] {
+export function getContentByType(type: 'guides' | 'news' | 'areas' | 'blog'): ContentItem[] {
   const typeDirectory = path.join(contentDirectory, type);
   
   if (!fs.existsSync(typeDirectory)) {
@@ -52,7 +52,7 @@ export function getContentByType(type: 'guides' | 'news' | 'areas'): ContentItem
   return items.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }
 
-export function getContentBySlug(type: 'guides' | 'news' | 'areas', slug: string): ContentItem | null {
+export function getContentBySlug(type: 'guides' | 'news' | 'areas' | 'blog', slug: string): ContentItem | null {
   const filePath = path.join(contentDirectory, type, `${slug}.md`);
   
   if (!fs.existsSync(filePath)) {
@@ -74,7 +74,7 @@ export function getContentBySlug(type: 'guides' | 'news' | 'areas', slug: string
   };
 }
 
-export function getAllSlugs(type: 'guides' | 'news' | 'areas'): string[] {
+export function getAllSlugs(type: 'guides' | 'news' | 'areas' | 'blog'): string[] {
   const typeDirectory = path.join(contentDirectory, type);
   
   if (!fs.existsSync(typeDirectory)) {
@@ -86,7 +86,7 @@ export function getAllSlugs(type: 'guides' | 'news' | 'areas'): string[] {
     .map(file => file.replace('.md', ''));
 }
 
-export function getRelatedContent(type: 'guides' | 'news' | 'areas', currentSlug: string, limit: number = 3): ContentItem[] {
+export function getRelatedContent(type: 'guides' | 'news' | 'areas' | 'blog', currentSlug: string, limit: number = 3): ContentItem[] {
   const allContent = getContentByType(type);
   return allContent
     .filter(item => item.slug !== currentSlug)

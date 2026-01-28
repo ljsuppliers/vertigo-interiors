@@ -18,19 +18,19 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: "Vertigo Interiors | Bespoke Interior Design",
+    default: "Vertigo Interiors | Interior Design London & South East",
     template: "%s | Vertigo Interiors",
   },
-  description: "Vertigo Interiors creates sophisticated, timeless spaces that reflect your lifestyle. Award-winning interior design for kitchens, bathrooms, living rooms and bedrooms across the UK.",
-  keywords: ["interior design", "bespoke interiors", "kitchen design", "bathroom design", "UK interior designer", "luxury interiors"],
+  description: "Bespoke interior design services in London and South East England. We create sophisticated, timeless spaces for kitchens, bathrooms, living rooms and bedrooms.",
+  keywords: ["interior design London", "interior designer South East", "bespoke interiors", "kitchen design London", "bathroom design", "luxury interiors London"],
   authors: [{ name: "Vertigo Interiors" }],
   openGraph: {
     type: "website",
     locale: "en_GB",
     url: "https://vertigo-interiors.com",
     siteName: "Vertigo Interiors",
-    title: "Vertigo Interiors | Bespoke Interior Design",
-    description: "Vertigo Interiors creates sophisticated, timeless spaces that reflect your lifestyle.",
+    title: "Vertigo Interiors | Interior Design London & South East",
+    description: "Bespoke interior design services in London and South East England. Sophisticated, timeless spaces.",
   },
 };
 

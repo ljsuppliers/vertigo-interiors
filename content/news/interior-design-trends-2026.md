@@ -8,7 +8,7 @@ category: "Trends"
 
 ## Introduction
 
-As we move into 2026, the interior design landscape continues to evolve, reflecting broader shifts in how we live, work, and think about our homes. After years of dramatic change, this year's trends feel more grounded—a refinement of ideas rather than a revolution.
+As we move into 2026, the interior design landscape continues to evolve, reflecting broader shifts in how we live, work, and think about our homes. After years of dramatic change, this year's trends feel more grounded, a refinement of ideas rather than a revolution.
 
 At Vertigo Interiors, we're seeing these themes emerge across our Edinburgh projects. Here's what's shaping homes this year.
 
@@ -21,7 +21,7 @@ The austere minimalism of recent years has softened considerably. Today's pared-
 - Curved forms softening angular architecture
 - Layered lighting creating ambience rather than stark illumination
 
-This isn't maximalism's return—it's minimalism with a soul.
+This isn't maximalism's return, it's minimalism with a soul.
 
 ## Sustainable Luxury
 
@@ -43,7 +43,7 @@ After years of beige dominance, colour is making a confident comeback. We're see
 - Saturated blues as statement accents
 - Ochre and mustard warming neutral schemes
 
-The key is considered application—colour with purpose, not chaos.
+The key is considered application, colour with purpose, not chaos.
 
 ## Quiet Luxury in Details
 

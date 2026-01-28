@@ -75,7 +75,7 @@ export default function Home() {
             <em className="italic">Your Story</em>
           </h1>
           <p className="text-lg md:text-xl mb-10 max-w-2xl mx-auto leading-relaxed text-[var(--color-cream)]/90">
-            We create sophisticated, timeless interiors that reflect how you live—not how design magazines say you should.
+            Bespoke interior design in London and the South East. We create sophisticated, timeless spaces that reflect how you live.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/portfolio" className="btn-primary bg-[var(--color-cream)] text-[var(--color-charcoal)] hover:bg-[var(--color-gold)]">
@@ -96,8 +96,8 @@ export default function Home() {
             Design With Intention
           </h2>
           <p className="text-lg leading-relaxed text-[var(--color-warm-gray)] max-w-3xl mx-auto">
-            At Vertigo Interiors, we believe your home should be an authentic extension of who you are. 
-            We take time to understand your lifestyle, your routines, your aesthetic preferences—then translate 
+            Based in London, we work with homeowners across the capital and South East England to create interiors that truly reflect who they are. 
+            We take time to understand your lifestyle, your routines, your aesthetic preferences, then translate 
             these into spaces that feel instinctively right. No trends for trends' sake. No cookie-cutter solutions. 
             Just thoughtful design that stands the test of time.
           </p>

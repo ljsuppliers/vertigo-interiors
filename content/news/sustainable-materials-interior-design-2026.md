@@ -6,13 +6,13 @@ category: "Sustainability"
 image: "/images/articles/sustainable-materials-interior-design-2026.jpg"
 ---
 
-The conversation about sustainable interior design has shifted dramatically. Where once eco-friendly materials meant compromise—aesthetically inferior options chosen for ethical reasons—2026 brings materials that perform as well as or better than conventional alternatives while dramatically reducing environmental impact.
+The conversation about sustainable interior design has shifted dramatically. Where once eco-friendly materials meant compromise, aesthetically inferior options chosen for ethical reasons, 2026 brings materials that perform as well as or better than conventional alternatives while dramatically reducing environmental impact.
 
 This isn't merely about bamboo flooring and organic cotton anymore. Material scientists and designers are developing genuinely new categories of sustainable materials that challenge assumptions about what eco-friendly design must look like.
 
 ## The Bio-Based Revolution
 
-Biological materials are having a moment. Mycelium—the root structure of mushrooms—now produces packaging, insulation, and increasingly, furniture and decorative panels. Companies like Ecovative have demonstrated that mushroom-based materials can replicate the properties of polystyrene, leather, and even certain building materials.
+Biological materials are having a moment. Mycelium, the root structure of mushrooms, now produces packaging, insulation, and increasingly, furniture and decorative panels. Companies like Ecovative have demonstrated that mushroom-based materials can replicate the properties of polystyrene, leather, and even certain building materials.
 
 Algae-based textiles and foams offer alternatives to petroleum-based synthetics. These materials biodegrade at end of life while performing comparably during use. Early applications focused on packaging and insulation; interior applications are expanding rapidly.
 
@@ -30,9 +30,9 @@ Recycled metals and reclaimed wood have established track records, but processin
 
 Carbon accounting increasingly influences material choices. Materials shipped globally accumulate significant transport emissions that can outweigh manufacturing savings. Designers and clients now consider provenance alongside other factors.
 
-British-made products avoid international shipping impacts. Scottish wool, English oak, Welsh slate—traditional materials gain new relevance as transport emissions face scrutiny. Local sourcing also supports domestic industries and creates shorter, more transparent supply chains.
+British-made products avoid international shipping impacts. Scottish wool, English oak, Welsh slate, traditional materials gain new relevance as transport emissions face scrutiny. Local sourcing also supports domestic industries and creates shorter, more transparent supply chains.
 
-This doesn't mean rejecting all imports—some materials simply don't exist locally. But it does mean conscious choices about when international sourcing is justified and when local alternatives serve equally well.
+This doesn't mean rejecting all imports, some materials simply don't exist locally. But it does mean conscious choices about when international sourcing is justified and when local alternatives serve equally well.
 
 ## Durability as Sustainability
 
@@ -46,7 +46,7 @@ We're advising clients to buy less but better. A single well-made sofa that last
 
 Sustainable materials often improve indoor air quality. Conventional materials can off-gas volatile organic compounds (VOCs) for years after installation. Low-VOC and zero-VOC alternatives reduce this exposure.
 
-Natural materials—timber, wool, natural stone—typically perform well on air quality metrics. They also regulate humidity, absorbing moisture when air is damp and releasing it when dry. This creates more stable, comfortable environments with less mechanical intervention.
+Natural materials, timber, wool, natural stone, typically perform well on air quality metrics. They also regulate humidity, absorbing moisture when air is damp and releasing it when dry. This creates more stable, comfortable environments with less mechanical intervention.
 
 Material certifications help identify healthier options. Cradle to Cradle, OEKO-TEX, and various other standards verify claims about material health and environmental performance. We increasingly specify certified materials where available.
 
@@ -80,4 +80,4 @@ Material innovation shows no signs of slowing. Research pipelines contain materi
 
 This trajectory suggests that investing in sustainable materials now positions homes well for the future. As sustainability expectations rise, properties designed with environmental consciousness will likely hold value better than those that ignored these concerns.
 
-Interior design has always evolved with available materials. The sustainable materials revolution represents the next chapter—one where environmental responsibility and aesthetic excellence prove not just compatible but complementary.
+Interior design has always evolved with available materials. The sustainable materials revolution represents the next chapter, one where environmental responsibility and aesthetic excellence prove not just compatible but complementary.

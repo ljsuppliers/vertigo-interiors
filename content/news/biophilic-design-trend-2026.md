@@ -5,7 +5,7 @@ date: "2026-01-25"
 image: "/images/articles/biophilic-design-trend-2026.jpg"
 ---
 
-If you've noticed an abundance of houseplants, natural materials, and nature-inspired textures in recent interior design, you're witnessing biophilic design in action—and it's only gaining momentum as we move through 2026.
+If you've noticed an abundance of houseplants, natural materials, and nature-inspired textures in recent interior design, you're witnessing biophilic design in action, and it's only gaining momentum as we move through 2026.
 
 ## What Is Biophilic Design?
 
@@ -23,13 +23,13 @@ In residential settings, homeowners report feeling calmer and more focused in bi
 
 This year, biophilic design is evolving beyond simply adding houseplants. We're seeing:
 
-Natural materials used authentically—real wood with visible grain, natural stone with its inherent variations, wool and linen textiles that show their organic origins.
+Natural materials used authentically, real wood with visible grain, natural stone with its inherent variations, wool and linen textiles that show their organic origins.
 
-Living elements integrated architecturally—moss walls, indoor gardens, and interior courtyards becoming standard features rather than luxuries.
+Living elements integrated architecturally, moss walls, indoor gardens, and interior courtyards becoming standard features rather than luxuries.
 
-Water features returning to homes—small fountains, indoor ponds, and water walls that bring the sound and movement of water indoors.
+Water features returning to homes, small fountains, indoor ponds, and water walls that bring the sound and movement of water indoors.
 
-Organic shapes replacing geometric ones—curved furniture, irregular forms, and fluid layouts that echo natural landscapes.
+Organic shapes replacing geometric ones, curved furniture, irregular forms, and fluid layouts that echo natural landscapes.
 
 ## How to Incorporate Biophilic Design
 
@@ -37,7 +37,7 @@ You don't need a complete renovation to embrace biophilic principles. Start with
 
 Maximise natural light by removing heavy window treatments and keeping windows unobstructed. If privacy is a concern, consider translucent films or high-placed plantation shutters that let light in while maintaining privacy.
 
-Introduce plants that suit your lifestyle—if you travel frequently or forget to water, choose hardy species like pothos, snake plants, or ZZ plants. If you have a dedicated plant parent in the household, go wild with more demanding species.
+Introduce plants that suit your lifestyle, if you travel frequently or forget to water, choose hardy species like pothos, snake plants, or ZZ plants. If you have a dedicated plant parent in the household, go wild with more demanding species.
 
 Choose natural materials where possible. When replacing furniture or fixtures, prioritise solid wood over veneers, natural stone over engineered alternatives, and natural fibres over synthetics.
 
@@ -47,10 +47,10 @@ Create views of nature where possible. If you're lucky enough to have a garden, 
 
 While natural materials often cost more upfront, they typically last longer and age more gracefully than synthetic alternatives. A solid oak table develops character over decades; a laminate one looks dated within years and eventually ends up in landfill.
 
-This durability aligns with another growing movement: sustainability in interior design. Biophilic design naturally supports sustainable choices—natural materials are often biodegradable, locally sourced options reduce transportation impacts, and quality pieces designed to last reduce consumption overall.
+This durability aligns with another growing movement: sustainability in interior design. Biophilic design naturally supports sustainable choices, natural materials are often biodegradable, locally sourced options reduce transportation impacts, and quality pieces designed to last reduce consumption overall.
 
 ## Our Approach
 
-At Vertigo Interiors, we've always gravitated toward natural materials and organic design—long before "biophilic" became a buzzword. We believe spaces should feel alive and connected to the world outside their walls. Not through forced application of trends, but through thoughtful selection of materials and considered design that responds to both the architecture and the people who'll live there.
+At Vertigo Interiors, we've always gravitated toward natural materials and organic design, long before "biophilic" became a buzzword. We believe spaces should feel alive and connected to the world outside their walls. Not through forced application of trends, but through thoughtful selection of materials and considered design that responds to both the architecture and the people who'll live there.
 
 If you're interested in exploring biophilic principles in your own home, we'd love to discuss how these ideas might translate to your space.
