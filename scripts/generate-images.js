@@ -1,7 +1,13 @@
 const fs = require('fs');
 const path = require('path');
+require('dotenv').config();
 
-const API_KEY = 'AIzaSyCT13YebS4b1YPmXX1KqTN-GcvTF8Q3zGY';
+const API_KEY = process.env.GEMINI_API_KEY;
+
+if (!API_KEY) {
+  console.error('Error: GEMINI_API_KEY environment variable not set');
+  process.exit(1);
+}
 const OUTPUT_DIR = path.join(__dirname, '..', 'public', 'images');
 
 // Ensure output directory exists
