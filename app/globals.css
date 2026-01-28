@@ -1,0 +1,253 @@
+@import "tailwindcss";
+
+:root {
+  /* Elegant interior design palette */
+  --color-cream: #F5F1EB;
+  --color-charcoal: #2C2C2C;
+  --color-warm-gray: #8B8178;
+  --color-sage: #9CAF88;
+  --color-terracotta: #C4826E;
+  --color-gold: #B8956E;
+}
+
+@theme inline {
+  --font-display: "Playfair Display", serif;
+  --font-body: "Inter", sans-serif;
+  
+  --color-cream: var(--color-cream);
+  --color-charcoal: var(--color-charcoal);
+  --color-warm-gray: var(--color-warm-gray);
+  --color-sage: var(--color-sage);
+  --color-terracotta: var(--color-terracotta);
+  --color-gold: var(--color-gold);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-cream);
+  color: var(--color-charcoal);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  font-weight: 500;
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+/* Elegant button styles */
+.btn-primary {
+  display: inline-block;
+  background-color: var(--color-charcoal);
+  color: var(--color-cream);
+  padding: 0.875rem 2.5rem;
+  font-size: 0.8125rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+
+.btn-primary:hover {
+  background-color: var(--color-warm-gray);
+}
+
+.btn-outline {
+  display: inline-block;
+  border: 1px solid var(--color-charcoal);
+  color: var(--color-charcoal);
+  padding: 0.875rem 2.5rem;
+  font-size: 0.8125rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+
+.btn-outline:hover {
+  background-color: var(--color-charcoal);
+  color: var(--color-cream);
+}
+
+/* Content width */
+.content-wide {
+  max-width: 80rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.content-narrow {
+  max-width: 56rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+/* Section spacing */
+.section-padding {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+@media (min-width: 1024px) {
+  .section-padding {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+  }
+}
+
+/* Image overlay */
+.image-overlay {
+  position: absolute;
+  inset: 0;
+  background-color: rgba(44, 44, 44, 0.35);
+}
+
+/* Prose styling for blog */
+.prose {
+  color: var(--color-charcoal);
+  line-height: 1.8;
+}
+
+.prose h2 {
+  font-family: var(--font-display);
+  font-size: 1.875rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.prose h3 {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.prose p {
+  margin-bottom: 1.5rem;
+}
+
+.prose ul, .prose ol {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.prose li {
+  margin-bottom: 0.5rem;
+}
+
+.prose a {
+  color: var(--color-terracotta);
+  transition: color 0.3s ease;
+}
+
+.prose a:hover {
+  color: var(--color-gold);
+}
+
+/* Subtle animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+/* Card hover effect */
+.card-hover {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(44, 44, 44, 0.12);
+}
+
+/* Image zoom on hover */
+.img-zoom {
+  overflow: hidden;
+}
+
+.img-zoom img {
+  transition: transform 0.5s ease;
+}
+
+.img-zoom:hover img {
+  transform: scale(1.05);
+}
+
+/* Gold accent line */
+.accent-line {
+  width: 60px;
+  height: 2px;
+  background-color: var(--color-gold);
+}
+
+/* Navigation link styles */
+.nav-link {
+  position: relative;
+  color: var(--color-charcoal);
+  font-size: 0.8125rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  transition: color 0.3s ease;
+}
+
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background-color: var(--color-gold);
+  transition: width 0.3s ease;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+
+.nav-link:hover {
+  color: var(--color-warm-gray);
+}
+
+/* Testimonial styling */
+.testimonial-quote {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.25rem;
+  line-height: 1.8;
+}
+
+/* Form styling */
+input, textarea, select {
+  font-family: var(--font-body);
+  border: 1px solid rgba(44, 44, 44, 0.2);
+  padding: 1rem;
+  width: 100%;
+  background-color: transparent;
+  transition: border-color 0.3s ease;
+}
+
+input:focus, textarea:focus, select:focus {
+  outline: none;
+  border-color: var(--color-gold);
+}

@@ -1,0 +1,17 @@
+{
+  "site_id": "vertigo-interiors",
+  "domain": "vertigo-interiors.com",
+  "phases": {
+    "setup": { "status": "complete", "completed_at": "2026-01-28T00:08:31Z" },
+    "planning": { "status": "complete", "completed_at": "2026-01-28T00:08:31Z" },
+    "design": { "status": "in_progress" },
+    "assets": { "status": "pending" },
+    "pages": { "status": "pending" },
+    "qa": { "status": "pending" },
+    "deploy": { "status": "pending" },
+    "content_engine": { "status": "pending" }
+  },
+  "current_phase": "design",
+  "last_updated": "2026-01-28T00:10:00Z",
+  "notes": "Using Nano Banana Pro (Gemini API) for all image generation"
+}

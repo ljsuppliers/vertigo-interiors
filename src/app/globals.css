@@ -1,0 +1,147 @@
+@import "tailwindcss";
+
+:root {
+  /* Elegant interior design palette */
+  --color-cream: #F5F1EB;
+  --color-charcoal: #2C2C2C;
+  --color-warm-gray: #8B8178;
+  --color-sage: #9CAF88;
+  --color-terracotta: #C4826E;
+  --color-gold: #B8956E;
+}
+
+@theme inline {
+  --font-display: "Playfair Display", serif;
+  --font-body: "Inter", sans-serif;
+  
+  --color-cream: var(--color-cream);
+  --color-charcoal: var(--color-charcoal);
+  --color-warm-gray: var(--color-warm-gray);
+  --color-sage: var(--color-sage);
+  --color-terracotta: var(--color-terracotta);
+  --color-gold: var(--color-gold);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-cream);
+  color: var(--color-charcoal);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  font-weight: 500;
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+/* Elegant button styles */
+.btn-primary {
+  background-color: var(--color-charcoal);
+  color: var(--color-cream);
+  padding: 0.75rem 2rem;
+  font-size: 0.875rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: var(--color-warm-gray);
+}
+
+.btn-outline {
+  border: 1px solid var(--color-charcoal);
+  color: var(--color-charcoal);
+  padding: 0.75rem 2rem;
+  font-size: 0.875rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+}
+
+.btn-outline:hover {
+  background-color: var(--color-charcoal);
+  color: var(--color-cream);
+}
+
+/* Content width */
+.content-wide {
+  max-width: 80rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content-narrow {
+  max-width: 56rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Section spacing */
+.section-padding {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+@media (min-width: 1024px) {
+  .section-padding {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+}
+
+/* Image overlay */
+.image-overlay {
+  position: absolute;
+  inset: 0;
+  background-color: rgba(44, 44, 44, 0.3);
+}
+
+/* Prose styling for blog */
+.prose {
+  color: var(--color-charcoal);
+  line-height: 1.75;
+}
+
+.prose h2 {
+  font-family: var(--font-display);
+  font-size: 1.875rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.prose h3 {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.prose p {
+  margin-bottom: 1.5rem;
+}
+
+.prose ul, .prose ol {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.prose li {
+  margin-bottom: 0.5rem;
+}
+
+.prose a {
+  color: var(--color-terracotta);
+  transition: color 0.3s ease;
+}
+
+.prose a:hover {
+  color: var(--color-gold);
+}
