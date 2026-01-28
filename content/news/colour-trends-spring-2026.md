@@ -3,7 +3,7 @@ title: "Colour Trends for Spring 2026: What's Influencing Interior Palettes"
 description: "This season's colour directions from major paint brands, design houses, and the broader cultural currents shaping how we use colour at home."
 date: "2026-01-26"
 category: "Colour Trends"
-image: "/images/portfolio/project-3.jpg"
+image: "/images/articles/colour-trends-spring-2026.jpg"
 ---
 
 Colour forecasting is equal parts science and intuition. Major paint companies invest heavily in trend research, tracking everything from fashion runways to economic indicators, social media aesthetics to architectural developments. The results influence the colours we see everywhere—from magazines to furniture stores, from new builds to renovation projects.

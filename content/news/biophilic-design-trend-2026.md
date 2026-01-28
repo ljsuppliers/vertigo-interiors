@@ -2,7 +2,7 @@
 title: "Biophilic Design Continues to Dominate in 2026"
 description: "The trend of bringing nature indoors shows no signs of slowing, with homeowners increasingly prioritising natural materials and living elements."
 date: "2026-01-25"
-image: "/images/portfolio/project-2.jpg"
+image: "/images/articles/biophilic-design-trend-2026.jpg"
 ---
 
 If you've noticed an abundance of houseplants, natural materials, and nature-inspired textures in recent interior design, you're witnessing biophilic design in action—and it's only gaining momentum as we move through 2026.

@@ -2,7 +2,7 @@
 title: "Interior Design in Edinburgh"
 description: "Award-winning interior design services in Edinburgh. We specialise in Georgian New Town townhouses, Victorian tenements, and contemporary new builds across the city."
 date: "2026-01-20"
-image: "/images/portfolio/project-1.jpg"
+image: "/images/articles/interior-design-in-edinburgh.jpg"
 ---
 
 Edinburgh's architectural heritage creates both extraordinary opportunities and genuine constraints for interior designers. From the soaring ceilings of New Town townhouses to the compact spaces of Stockbridge tenements, from the contemporary apartments of Quartermile to the renovated warehouses of Leith—each presents unique challenges that demand local knowledge and creative solutions.

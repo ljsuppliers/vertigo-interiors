@@ -2,7 +2,7 @@
 title: "Interior Design in Glasgow"
 description: "Interior design services in Glasgow, from the West End's Victorian terraces to the Merchant City's warehouse conversions. Design that matches the city's creative energy."
 date: "2026-01-18"
-image: "/images/portfolio/project-2.jpg"
+image: "/images/articles/interior-design-in-glasgow.jpg"
 ---
 
 Glasgow offers interior designers something Edinburgh's restraint rarely permits: permission to be bold. Scotland's largest city has always embraced the new, the creative, the unexpected. From Charles Rennie Mackintosh's revolutionary designs to today's thriving arts scene, Glasgow rewards imagination over convention.

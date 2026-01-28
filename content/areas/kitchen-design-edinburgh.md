@@ -2,7 +2,7 @@
 title: "Kitchen Design Edinburgh"
 description: "Bespoke kitchen design services in Edinburgh. From Georgian townhouse kitchens to contemporary open-plan spaces, we create kitchens that work for how Edinburgh families actually live."
 date: "2026-01-12"
-image: "/images/portfolio-kitchen.jpg"
+image: "/images/articles/kitchen-design-edinburgh.jpg"
 ---
 
 Edinburgh kitchens present unique design challenges that demand local expertise. The city's distinctive architecture—from Georgian townhouses with cellular layouts to Victorian tenements with surprisingly generous footprints—requires kitchen design approaches that simply don't transfer from other cities.

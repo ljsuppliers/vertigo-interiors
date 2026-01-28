@@ -3,7 +3,7 @@ title: "How to Choose Paint Colours That Won't Drive You Mad"
 description: "A practical guide to selecting paint colours for your home, from testing swatches properly to understanding light and undertones."
 date: "2026-01-15"
 category: "Colour & Materials"
-image: "/images/portfolio/project-1.jpg"
+image: "/images/articles/how-to-choose-paint-colours.jpg"
 ---
 
 Choosing paint colours seems simple until you're standing in front of 47 variations of white, questioning every life decision that led you to this moment. We've been there. Every designer has. The good news: there's a method to this madness.

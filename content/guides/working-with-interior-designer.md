@@ -3,7 +3,7 @@ title: "Working With an Interior Designer: What to Expect"
 description: "A complete guide to hiring and working with an interior designer. From finding the right fit to understanding fees, timelines, and the design process."
 date: "2026-01-10"
 category: "Working With Us"
-image: "/images/portfolio/project-3.jpg"
+image: "/images/articles/working-with-interior-designer.jpg"
 ---
 
 The decision to hire an interior designer is often preceded by months or years of hesitation. Is it worth the cost? Will they understand what I want? Will I end up with something too designed—beautiful in photographs but uncomfortable to live in?

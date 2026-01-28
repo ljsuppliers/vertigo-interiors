@@ -2,7 +2,7 @@
 title: "Interior Design in London"
 description: "Bespoke interior design services across London, from Hampstead to Chelsea, Notting Hill to Richmond. We create sophisticated spaces that reflect how Londoners actually live."
 date: "2026-01-01"
-image: "/images/portfolio/project-3.jpg"
+image: "/images/articles/interior-design-in-london.jpg"
 ---
 
 London presents unique interior design challenges that designers in other cities never encounter. From Victorian conversions to contemporary new builds, from compact flats to sprawling townhouses, the diversity of London's housing stock demands adaptable, creative design solutions.

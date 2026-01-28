@@ -2,7 +2,7 @@
 title: "How to Choose a Colour Palette for Your Home"
 description: "A comprehensive guide to selecting colours that work together and reflect your personal style, from understanding colour theory to practical application."
 date: "2026-01-15"
-image: "/images/portfolio-living-room.jpg"
+image: "/images/articles/how-to-choose-colour-palette.jpg"
 category: "Design Fundamentals"
 ---
 

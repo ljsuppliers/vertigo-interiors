@@ -3,7 +3,7 @@ title: "Lighting Design Basics: A Room-by-Room Guide"
 description: "How to create effective lighting schemes for every room in your home. From layered lighting principles to choosing the right colour temperature."
 date: "2026-01-22"
 category: "Lighting"
-image: "/images/portfolio/project-2.jpg"
+image: "/images/articles/lighting-design-basics.jpg"
 ---
 
 Lighting is the single most underestimated element of interior design. You can have perfect furniture, exquisite colour schemes, and flawless proportions—and still end up with a room that feels wrong. Usually, the culprit is lighting.

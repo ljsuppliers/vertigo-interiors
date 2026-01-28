@@ -2,7 +2,7 @@
 title: "Interior Design in Edinburgh New Town"
 description: "Bespoke interior design services for Edinburgh's iconic Georgian New Town. We specialise in transforming these architectural treasures while respecting their heritage."
 date: "2026-01-10"
-image: "/images/portfolio-living-room.jpg"
+image: "/images/articles/edinburgh-new-town.jpg"
 ---
 
 

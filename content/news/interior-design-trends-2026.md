@@ -2,7 +2,7 @@
 title: "Interior Design Trends to Watch in 2026"
 description: "From warm minimalism to sustainable luxury, discover the design trends shaping homes this year."
 date: "2026-01-20"
-image: "/images/portfolio-living-room.jpg"
+image: "/images/articles/interior-design-trends-2026.jpg"
 category: "Trends"
 ---
 

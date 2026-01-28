@@ -3,7 +3,7 @@ title: "Sustainable Materials Reshaping Interior Design in 2026"
 description: "From recycled textiles to bio-based alternatives, sustainable materials are moving from niche to mainstream. What designers and homeowners need to know."
 date: "2026-01-25"
 category: "Sustainability"
-image: "/images/portfolio/project-1.jpg"
+image: "/images/articles/sustainable-materials-interior-design-2026.jpg"
 ---
 
 The conversation about sustainable interior design has shifted dramatically. Where once eco-friendly materials meant compromise—aesthetically inferior options chosen for ethical reasons—2026 brings materials that perform as well as or better than conventional alternatives while dramatically reducing environmental impact.
