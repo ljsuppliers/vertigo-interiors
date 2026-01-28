@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getContentBySlug, getAllSlugs, getRelatedContent } from "@/lib/content";
+import { markdownToHtml } from "@/lib/markdown";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -42,27 +43,8 @@ export default async function GuidePage({ params }: PageProps) {
   
   const relatedGuides = getRelatedContent('guides', slug, 3);
   
-  // Simple markdown to HTML conversion
-  const contentHtml = guide.content
-    .split('\n\n')
-    .map(paragraph => {
-      if (paragraph.startsWith('## ')) {
-        return `<h2>${paragraph.slice(3)}</h2>`;
-      }
-      if (paragraph.startsWith('### ')) {
-        return `<h3>${paragraph.slice(4)}</h3>`;
-      }
-      if (paragraph.startsWith('- ')) {
-        const items = paragraph.split('\n').map(item => `<li>${item.slice(2)}</li>`).join('');
-        return `<ul>${items}</ul>`;
-      }
-      if (paragraph.startsWith('1. ')) {
-        const items = paragraph.split('\n').map((item, i) => `<li>${item.slice(3)}</li>`).join('');
-        return `<ol>${items}</ol>`;
-      }
-      return `<p>${paragraph}</p>`;
-    })
-    .join('\n');
+  // Convert markdown to HTML
+  const contentHtml = markdownToHtml(guide.content);
 
   return (
     <>

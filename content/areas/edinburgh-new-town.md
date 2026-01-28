@@ -5,7 +5,6 @@ date: "2026-01-10"
 image: "/images/portfolio-living-room.jpg"
 ---
 
-## Interior Design in Edinburgh New Town
 
 Edinburgh's New Town stands as one of the finest examples of Georgian town planning in the world. These elegant streets, with their uniform facades and generous proportions, present unique opportunities—and challenges—for interior design.
 
