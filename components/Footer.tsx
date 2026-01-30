@@ -60,8 +60,8 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/guides" className="text-[var(--color-warm-gray)] hover:text-[var(--color-cream)] transition-colors">
-                  Design Guides
+                <Link href="/blog" className="text-[var(--color-warm-gray)] hover:text-[var(--color-cream)] transition-colors">
+                  Blog
                 </Link>
               </li>
               <li>
