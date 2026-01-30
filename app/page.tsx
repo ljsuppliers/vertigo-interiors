@@ -1,5 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
+import { getContentByType } from "@/lib/content";
+import ContentCarousel from "@/components/ContentCarousel";
 
 const services = [
   {
@@ -53,6 +55,9 @@ const testimonials = [
 ];
 
 export default function Home() {
+  const blogPosts = getContentByType('blog').slice(0, 6);
+  const newsItems = getContentByType('news').slice(0, 6);
+
   return (
     <>
       {/* Hero Section */}
@@ -173,6 +178,26 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* Blog Carousel */}
+      <ContentCarousel
+        items={blogPosts}
+        type="blog"
+        title="From Our Blog"
+        subtitle="Design Inspiration"
+        viewAllHref="/blog"
+        viewAllText="View All Posts"
+      />
+
+      {/* News Carousel */}
+      <ContentCarousel
+        items={newsItems}
+        type="news"
+        title="Latest News"
+        subtitle="Industry Trends"
+        viewAllHref="/news"
+        viewAllText="View All News"
+      />
 
       {/* Testimonials */}
       <section className="section-padding bg-[var(--color-charcoal)] text-[var(--color-cream)]">
